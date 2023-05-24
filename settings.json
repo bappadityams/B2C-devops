@@ -1,0 +1,136 @@
+{
+  "Environments": [
+    {
+      "Name": "Dev",
+      "PolicySettings" : {
+        "Production": "false",
+        "DeploymentMode": "Development",
+        "DeveloperMode": "true",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    },
+    {
+      "Name": "Test",
+      "PolicySettings" : {
+        "Production": "false",
+        "DeploymentMode": "Development",
+        "DeveloperMode": "true",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    },
+    {
+      "Name": "Production",
+      "PolicySettings" : {
+        "Production": "true",
+        "DeploymentMode": "Production",
+        "DeveloperMode": "false",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    },
+    {
+      "Name": "WINJAMMER_Dev",
+      "PolicySettings" : {
+        "Production": "false",
+        "DeploymentMode": "Development",
+        "DeveloperMode": "true",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    },
+    {
+      "Name": "WINJAMMER_Test",
+      "PolicySettings" : {
+        "Production": "false",
+        "DeploymentMode": "Development",
+        "DeveloperMode": "true",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    },
+    {
+      "Name": "WINJAMMER_Production",
+      "PolicySettings" : {
+        "Production": "true",
+        "DeploymentMode": "Production",
+        "DeveloperMode": "false",
+        "ClientEnabled": "true",
+        "Tenant": "",
+        "TenantB2CLogin": "",
+        "TenantId": "",
+        "IdentityExperienceFrameworkAppId": "",
+        "ProxyIdentityExperienceFrameworkAppId": "",
+        "B2CExtensionsAppId": "",
+        "B2CExtensionsObjectId": "",
+        "ApplicationInsights": "e503bef9-ca8f-4536-99a1-3b31d9904754",       
+        "MobileIdTokenLifetime": "300",
+        "MobileAccessTokenLifetime": "300",
+        "MobileRefreshTokenLifetime": "86400",
+        "BlobUrl": ""
+        
+      }
+    }     
+  ]
+}
